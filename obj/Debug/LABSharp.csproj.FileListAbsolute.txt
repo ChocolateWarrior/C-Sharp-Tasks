@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LABSharp\LABSharp\bin\Debug\LABSharp.exe.config
+C:\Users\User\source\repos\LABSharp\LABSharp\bin\Debug\LABSharp.exe
+C:\Users\User\source\repos\LABSharp\LABSharp\bin\Debug\LABSharp.pdb
+C:\Users\User\source\repos\LABSharp\LABSharp\obj\Debug\LABSharp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LABSharp\LABSharp\obj\Debug\LABSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LABSharp\LABSharp\obj\Debug\LABSharp.exe
+C:\Users\User\source\repos\LABSharp\LABSharp\obj\Debug\LABSharp.pdb
